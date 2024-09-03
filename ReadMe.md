@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on my Linux Auto-Setup Script<br>🤝 I'm looking to help with Neovim<br>🌱 I'm learning DevOps<br>⚡ I'm a ARCH user<br><br>
+🔭 I'm currently working on my Linux Auto-Setup Script<br>🤝 I'm looking to help with Neovim<br>🌱 I'm learning DevOps<br>⚡ I'm a ARCH user btw<br><br>
 
 
 # 💻 Tech Stack:
