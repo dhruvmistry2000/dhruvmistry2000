@@ -8,8 +8,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-# 📚 Website:
-[Visit my website](https://dhruvmistry2000.github.io/dhruvmistry/) for more information about my projects and experiences.
+# 📚 Website: 🌐💻
+[Visit my website 🌟](https://dhruvmistry2000.github.io/dhruvmistry/) for more information about my projects 📁 and experiences 📚. 🚀💻
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dhruvmistry2000&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dhruvmistry2000&theme=dracula&hide_border=false)<br/>
