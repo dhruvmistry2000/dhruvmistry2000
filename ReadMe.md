@@ -11,12 +11,12 @@
 # 📚 Website:
 🌐 [Visit my website](https://dhruvmistry2000.github.io/dhruvmistry/) 🌟 for more information about my projects 📁 and experiences 📚. 🚀💻
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dhruvmistry2000&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dhruvmistry2000&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvmistry2000&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=dhruvmistry2000&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dhruvmistry2000&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvmistry2000&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dhruvmistry2000&icon=2&color=9)](https://visitcount.itsvg.in)
