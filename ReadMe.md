@@ -43,7 +43,6 @@
 ✨ Check out my [personal website](https://dhruvmistry2000.github.io/dhruvmistry/) to explore my projects and professional journey!
 
 ## 📊 GitHub Analytics
-<div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=dhruvmistry2000&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)
 
