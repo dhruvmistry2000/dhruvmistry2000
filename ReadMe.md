@@ -56,8 +56,8 @@ I'm a Computer Science student and systems enthusiast with a passion for buildin
 </div>
 
 ## 📫 Connect With Me
-- LinkedIn: [Dhruv Mistry](https://www.linkedin.com/in/dhruv-mistry-225786124/)
-- Email: dhruvmistry2000@gmail.com
+- 💼 LinkedIn: [Dhruv Mistry](https://www.linkedin.com/in/dhruv-mistry-225786124/)
+- 📧 Email: dhruvmistry2000@gmail.com
 
 ---
 
