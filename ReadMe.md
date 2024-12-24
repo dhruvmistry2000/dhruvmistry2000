@@ -42,7 +42,7 @@ I'm a Computer Science student and systems enthusiast with a passion for buildin
   - Customized PowerShell environment with enhanced functionality
   - Technologies: PowerShell, Windows Scripting
 
-  - **[RHEL_Scripts Project](https://github.com/dhruvmistry2000/RHEL_Scripts)** [In Progress]
+- **[RHEL_Scripts Project](https://github.com/dhruvmistry2000/RHEL_Scripts)** [In Progress]
   - Collection of scripts for automating tasks and configurations on Red Hat Enterprise Linux
   - Technologies: Bash, Shell scripting, RHEL
 
