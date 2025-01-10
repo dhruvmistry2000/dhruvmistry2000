@@ -66,10 +66,3 @@ I'm a Computer Science student and systems enthusiast with a passion for buildin
 - 📧 Email: dhruvmistry2000@gmail.com
 
 ---
-
-  
-[![Profile Views](https://visitcount.itsvg.in/api?id=dhruvmistry2000&icon=2&color=9)](https://visitcount.itsvg.in)
-
-</div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
