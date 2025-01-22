@@ -27,19 +27,19 @@ I'm a Computer Science student and systems enthusiast with a passion for buildin
   - Relevant coursework: Cloud Computing, Distributed Systems, Linux , Docker
 
 ## 🌟 Featured Projects
-- **[Mydocker Project](https://github.com/dhruvmistry2000/mydocker)** [In Progress]
+- **[Mydocker Project](https://github.com/dhruvmistry2000/mydocker)** (A perpetual journey of enhancement)
   - Built a lightweight container runtime from scratch
   - Technologies: Python, Linux namespaces
 
-- **[MyLinux Project](https://github.com/dhruvmistry2000/mylinux)**
+- **[MyLinux Project](https://github.com/dhruvmistry2000/mylinux)** (A perpetual journey of enhancement)
   - Custom Linux configuration built from source
   - Technologies: Shell scripting
 
-- **[MyBash Project](https://github.com/dhruvmistry2000/mybash)**
+- **[MyBash Project](https://github.com/dhruvmistry2000/mybash)** (A perpetual journey of enhancement)
   - Extended Bash shell with custom features and plugins
   - Technologies: Bash, Shell scripting
 
-- **[MyPowershell Project](https://github.com/dhruvmistry2000/mypowershell)** [In Progress]
+- **[MyPowershell Project](https://github.com/dhruvmistry2000/mypowershell)** (A perpetual journey of enhancement)
   - Customized PowerShell environment with enhanced functionality
   - Technologies: PowerShell, Windows Scripting
 
