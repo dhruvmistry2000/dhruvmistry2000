@@ -24,7 +24,7 @@ I'm a Computer Science student and systems enthusiast with a passion for buildin
 
 ## 🎓 Education
 - Bachelor's in Computer Science (2020-2024)
-  - Relevant coursework: Cloud Computing, Distributed Systems, Linux , Docker
+  - Relevant coursework: Cloud Computing, Linux , Containerization
 
 ## 🌟 Featured Projects
 - **[Mydocker Project](https://github.com/dhruvmistry2000/mydocker)** (A perpetual journey of enhancement)
