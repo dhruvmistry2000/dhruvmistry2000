@@ -27,17 +27,18 @@ I'm a Computer Science student and systems enthusiast with a passion for buildin
   - Relevant coursework: Cloud Computing, Linux , Containerization
 
 ## 🌟 Featured Projects
-- **[Mydocker Project](https://github.com/dhruvmistry2000/mydocker)** (A perpetual journey of enhancement)
-  - Built a lightweight container runtime from scratch
-  - Technologies: Python, Linux namespaces
 
 - **[MyLinux Project](https://github.com/dhruvmistry2000/mylinux)** (A perpetual journey of enhancement)
   - Custom Linux configuration built from source
-  - Technologies: Shell scripting
+  - Technologies:Bash, Shell scripting
 
 - **[MyBash Project](https://github.com/dhruvmistry2000/mybash)** (A perpetual journey of enhancement)
   - Extended Bash shell with custom features and plugins
   - Technologies: Bash, Shell scripting
+
+- **[Mydocker Project](https://github.com/dhruvmistry2000/mydocker)** (A perpetual journey of enhancement)
+  - Built a lightweight container runtime from scratch
+  - Technologies: Docker, Docker-compose, Linux namespaces
 
 - **[MyPowershell Project](https://github.com/dhruvmistry2000/mypowershell)** (A perpetual journey of enhancement)
   - Customized PowerShell environment with enhanced functionality
@@ -47,11 +48,14 @@ I'm a Computer Science student and systems enthusiast with a passion for buildin
   - Collection of scripts for automating tasks and configurations on Red Hat Enterprise Linux
   - Technologies: Bash, Shell scripting, RHEL
 
+- **[Mykubernetes](https://github.com/dhruvmistry2000/mykubernetes)** [In Progress]
+  - Collection of documentations and yaml file while I was learning about kubernetes
+  - Technologies: Yaml, Kubernetes, NFS
+
 ## 🌐 Portfolio
 ✨ Check out my [personal website](https://dhruvmistry2000.github.io/dhruvmistry/) to explore my projects and professional journey!
 
 ## 📊 GitHub Analytics
-
 
 ![](https://github-readme-stats.vercel.app/api?username=dhruvmistry2000&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)
 
