@@ -53,6 +53,10 @@ I'm a Computer Science student and systems enthusiast with a passion for buildin
   - Collection of documentations and yaml file while I was learning about kubernetes
   - Technologies: Yaml, Kubernetes, NFS
 
+- **[Backup-Script](https://github.com/dhruvmistry2000/Backup-Script)**
+  - Backup script for linux to backup project on local as well as on remote drives like Google Drive using rclone.
+  - Technologies: Bash, Linux, Python, Rclone, Nginx
+
 ## 🌐 Portfolio
 ✨ Check out my [personal website](https://dhruvmistry2000.github.io/dhruvmistry/) to explore my projects and professional journey!
 
