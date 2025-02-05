@@ -12,7 +12,6 @@ I'm a Computer Science student and systems enthusiast with a passion for buildin
 
 ## 🔧 Tech Stack & Tools
 <div align="center">
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 ![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -70,6 +69,7 @@ I'm a Computer Science student and systems enthusiast with a passion for buildin
 
 ![](https://github-profile-trophy.vercel.app/api?username=dhruvmistry2000&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
+![Patricio's Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhruvmistry2000&custom_title=Patricio's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 </div>
 
 ## 📫 Connect With Me
@@ -81,4 +81,6 @@ I'm a Computer Science student and systems enthusiast with a passion for buildin
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
   <br/>
 </div>
+
+
 ---
