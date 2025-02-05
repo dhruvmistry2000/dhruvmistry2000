@@ -1,6 +1,6 @@
-# 👋 Hi there! I'm Dhruv Mistry
+# 👋 Hello! I'm Dhruv Mistry
 
-I'm a Computer Science student and systems enthusiast with a passion for building from the ground up. My current focus is on developing a Docker implementation from scratch, which has deepened my understanding of container technologies and Linux internals. I enjoy working with cloud-native technologies, system customization, and automation tools. I'm also interested in exploring more about distributed systems and cloud architecture patterns.
+I am a Computer Science student and systems enthusiast with a strong passion for building innovative solutions. Currently, I am focused on developing a Docker implementation from scratch, which has significantly enhanced my understanding of container technologies and Linux internals. I enjoy working with cloud-native technologies, system customization, and automation tools, and I am eager to learn more about distributed systems and cloud architecture patterns.
 
 ## 🚀 About Me
 - 🐳 Currently building a Docker implementation from scratch as part of my [mydocker](https://github.com/dhruvmistry2000/mydocker) project, which complements my work on [mykubernetes](https://github.com/dhruvmistry2000/mykubernetes) by providing a foundational container runtime.
@@ -26,40 +26,46 @@ I'm a Computer Science student and systems enthusiast with a passion for buildin
 
 ## 🎓 Education
 - Bachelor's in Computer Science (2020-2024)
-  - Relevant coursework: Cloud Computing, Linux , Containerization
+  - Relevant coursework: Cloud Computing, Linux, Containerization
 
-## 🌟 Featured Projects
+## 🌟 Featured Projects and Contributions
 
 - **[MyLinux](https://github.com/dhruvmistry2000/mylinux)** (A perpetual journey of enhancement)
   - Custom Linux configuration built from source
-  - Technologies:Bash, Shell scripting
+  - Technologies: Bash, Shell scripting
 
 - **[MyBash](https://github.com/dhruvmistry2000/mybash)** (A perpetual journey of enhancement)
   - Extended Bash shell with custom features and plugins
   - Technologies: Bash, Shell scripting
 
-- **[Mydocker](https://github.com/dhruvmistry2000/mydocker)** (A perpetual journey of enhancement)
-  - Built a lightweight container runtime from scratch
+- **[Mydocker](https://github.com/dhruvmistry2000/mydocker)** (A continuous journey of enhancement)
+  - Developed a lightweight container runtime from scratch
   - Technologies: Docker, Docker-compose, Linux namespaces
 
-- **[MyPowershell](https://github.com/dhruvmistry2000/mypowershell)** (A perpetual journey of enhancement)
+- **[MyPowershell](https://github.com/dhruvmistry2000/mypowershell)** (A continuous journey of enhancement)
   - Customized PowerShell environment with enhanced functionality
   - Technologies: PowerShell, Windows Scripting
 
 - **[Mykubernetes](https://github.com/dhruvmistry2000/mykubernetes)** [In Progress]
-  - Collection of documentations and yaml file while I was learning about kubernetes
-  - Technologies: Yaml, Kubernetes, NFS
+  - Collection of documentation and YAML files created during my Kubernetes learning journey
+  - Technologies: YAML, Kubernetes, NFS
 
 - **[RHEL_Scripts](https://github.com/dhruvmistry2000/RHEL_Scripts)** [In Progress]
   - Collection of scripts for automating tasks and configurations on Red Hat Enterprise Linux
   - Technologies: Bash, Shell scripting, RHEL
 
 - **[Backup-Script](https://github.com/dhruvmistry2000/Backup-Script)**
-  - Backup script for linux to backup project on local as well as on remote drives like Google Drive using rclone.
+  - Backup script for Linux to save projects on local and remote drives, including Google Drive using rclone.
   - Technologies: Bash, Linux, Python, Rclone, Nginx
 
+- **[winutil](https://github.com/ChrisTitusTech/winutil)**: 
+  - Contributed enhancements to the "winutil" repository, including PowerShell scripts and optimizations to maximize Windows utility and improve productivity.
+
+- **[mybash](https://github.com/ChrisTitusTech/mybash)**: 
+  - Made valuable contributions to the popular "mybash" repository, including script enhancements, bug fixes, and feature additions that improve usability and extensibility.
+
 ## 🌐 Portfolio
-✨ Check out my [personal website](https://dhruvmistry2000.github.io/dhruvmistry/) to explore my projects and professional journey!
+✨ Explore my [personal website](https://dhruvmistry2000.github.io/dhruvmistry/) to discover my projects and professional journey!
 
 ## 📊 GitHub Analytics
 
@@ -81,6 +87,3 @@ I'm a Computer Science student and systems enthusiast with a passion for buildin
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
   <br/>
 </div>
-
-
----
