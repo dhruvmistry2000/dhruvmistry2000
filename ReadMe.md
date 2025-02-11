@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Dhruv Mistry
 
-I am a Computer Science student and systems enthusiast with a strong passion for building innovative solutions. Currently, I am focused on developing a Docker implementation from scratch, which has significantly enhanced my understanding of container technologies and Linux internals. I enjoy working with cloud-native technologies, system customization, and automation tools, and I am eager to learn more about distributed systems and cloud architecture patterns.
+I am a Computer Science student and systems enthusiast passionate about building innovative solutions across development and operations. Currently focused on developing a Docker implementation from scratch to better understand containerization's role in software delivery lifecycle. My interests span cloud-native technologies, infrastructure automation, and operational aspects of system design, with a growing focus on deployment strategies and reliability patterns in distributed environments.
 
 ## 🚀 About Me
 - 🐳 Currently building a Docker implementation from scratch as part of my [mydocker](https://github.com/dhruvmistry2000/mydocker) project, which complements my work on [mykubernetes](https://github.com/dhruvmistry2000/mykubernetes) by providing a foundational container runtime.
