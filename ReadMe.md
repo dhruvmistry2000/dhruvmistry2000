@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Dhruv Mistry
+# ![header](header.png)
 
 I am a Computer Science student and systems enthusiast passionate about building innovative solutions across development and operations. Currently focused on developing a Docker implementation from scratch to better understand containerization's role in software delivery lifecycle. My interests span cloud-native technologies, infrastructure automation, and operational aspects of system design, with a growing focus on deployment strategies and reliability patterns in distributed environments.
 
