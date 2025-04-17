@@ -61,6 +61,13 @@ I am a Computer Science student and systems enthusiast passionate about building
 - **[Backup-Script](https://github.com/dhruvmistry2000/Backup-Script)**
   - Backup script for Linux to save projects on local and remote drives, including Google Drive using rclone.
   - Technologies: Bash, Linux, Python, Rclone, Nginx
+- **[Medusa-Store](https://github.com/dhruvmistry2000/medusa-store)**
+  - **[Medusa-Store](https://github.com/dhruvmistry2000/medusa-store)**  
+    - Automated CI/CD pipeline deploying a Medusa e-commerce platform to Amazon ECS using GitHub Actions and Terraform.  
+    - Technologies: GitHub Actions, Terraform, ECS, Medusa, Github Actions
+- **[Web-Scraper](https://github.com/dhruvmistry2000/Backup-Script)**
+  - Utilized Puppeteer for web scraping, storing data in `scraped_data.json`, served via a Python server (`server.py`) at `http://localhost:5000`, containerized with Docker for deployment.
+  - Technologies: Javascript, Python, Docker
 
 - **[winutil](https://github.com/ChrisTitusTech/winutil)**: 
   - Contributed enhancements to the "winutil" repository, including PowerShell scripts and optimizations to maximize Windows utility and improve productivity.
@@ -84,8 +91,8 @@ I am a Computer Science student and systems enthusiast passionate about building
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: [Dhruv Mistry](https://www.linkedin.com/in/dhruv-mistry-225786124/)
+- 🌐 Website: [dhruvmistry2000.github.io/](https://dhruvmistry2000.github.io/dhruvmistry)
 - 📧 Email: dhruvmistry2000@gmail.com
-
 <div align="center">
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
