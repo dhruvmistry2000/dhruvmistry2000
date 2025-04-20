@@ -61,10 +61,10 @@ I am a Computer Science student and systems enthusiast passionate about building
 - **[Backup-Script](https://github.com/dhruvmistry2000/Backup-Script)**
   - Backup script for Linux to save projects on local and remote drives, including Google Drive using rclone.
   - Technologies: Bash, Linux, Python, Rclone, Nginx
-- **[Medusa-Store](https://github.com/dhruvmistry2000/medusa-store)**
+- **[Medusa-Store](https://github.com/dhruvmistry2000/medus-storefront)**
     - Automated CI/CD pipeline deploying a Medusa e-commerce platform to Amazon ECS using GitHub Actions and Terraform.  
     - Technologies: GitHub Actions, Terraform, ECS, Medusa, Github Actions
-- **[Web-Scraper](https://github.com/dhruvmistry2000/Backup-Script)**
+- **[Web-Scraper](https://github.com/dhruvmistry2000/Web-scraper)**
   - Utilized Puppeteer for web scraping, storing data in `scraped_data.json`, served via a Python server (`server.py`) at `http://localhost:5000`, containerized with Docker for deployment.
   - Technologies: Javascript, Python, Docker
 
