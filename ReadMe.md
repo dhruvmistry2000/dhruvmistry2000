@@ -62,12 +62,17 @@ I am a Computer Science student and systems enthusiast passionate about building
 - **[Backup-Script](https://github.com/dhruvmistry2000/Backup-Script)**
   - Backup script for Linux to save projects on local and remote drives, including Google Drive using rclone.
   - Technologies: Bash, Linux, Python, Rclone, Nginx
+
 - **[Medusa-Store](https://github.com/dhruvmistry2000/medus-storefront)**
     - Automated CI/CD pipeline deploying a Medusa e-commerce platform to Amazon ECS using GitHub Actions and Terraform.  
     - Technologies: GitHub Actions, Terraform, ECS, Medusa, Github Actions
+
 - **[Web-Scraper](https://github.com/dhruvmistry2000/Web-scraper)**
   - Utilized Puppeteer for web scraping, storing data in `scraped_data.json`, served via a Python server (`server.py`) at `http://localhost:5000`, containerized with Docker for deployment.
   - Technologies: Javascript, Python, Docker
+- **[Strapi-Deployment](https://github.com/dhruvmistry2000/Strapi-Deployment)**
+  - The GitHub repository Strapi-Deployment automates the deployment of a Strapi CMS application to AWS using Docker, Terraform, and GitHub Actions. I’ve set it up to use Amazon ECS Fargate for serverless container orchestration, making deployments scalable and cost-effective.
+  - Technologies: Github Actions, Terraform, Docker
 
 - **[winutil](https://github.com/ChrisTitusTech/winutil)**: 
   - Contributed enhancements to the "winutil" repository, including PowerShell scripts and optimizations to maximize Windows utility and improve productivity.
