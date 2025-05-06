@@ -43,21 +43,9 @@ I am a Computer Science student and systems enthusiast passionate about building
   - Extended Bash shell with custom features and plugins
   - Technologies: Bash, Shell scripting
 
-- **[Mydocker](https://github.com/dhruvmistry2000/mydocker)** (A continuous journey of enhancement)
-  - Developed a lightweight container runtime from scratch
-  - Technologies: Docker, Docker-compose, Linux namespaces
-
 - **[MyPowershell](https://github.com/dhruvmistry2000/mypowershell)** (A continuous journey of enhancement)
   - Customized PowerShell environment with enhanced functionality
   - Technologies: PowerShell, Windows Scripting
-
-- **[Mykubernetes](https://github.com/dhruvmistry2000/mykubernetes)** [In Progress]
-  - Collection of documentation and YAML files created during my Kubernetes learning journey
-  - Technologies: YAML, Kubernetes, NFS
-
-- **[RHEL_Scripts](https://github.com/dhruvmistry2000/RHEL_Scripts)** [In Progress]
-  - Collection of scripts for automating tasks and configurations on Red Hat Enterprise Linux
-  - Technologies: Bash, Shell scripting, RHEL
 
 - **[Backup-Script](https://github.com/dhruvmistry2000/Backup-Script)**
   - Backup script for Linux to save projects on local and remote drives, including Google Drive using rclone.
@@ -70,15 +58,10 @@ I am a Computer Science student and systems enthusiast passionate about building
 - **[Web-Scraper](https://github.com/dhruvmistry2000/Web-scraper)**
   - Utilized Puppeteer for web scraping, storing data in `scraped_data.json`, served via a Python server (`server.py`) at `http://localhost:5000`, containerized with Docker for deployment.
   - Technologies: Javascript, Python, Docker
+
 - **[Strapi-Deployment](https://github.com/dhruvmistry2000/Strapi-Deployment)**
   - The GitHub repository Strapi-Deployment automates the deployment of a Strapi CMS application to AWS using Docker, Terraform, and GitHub Actions. I’ve set it up to use Amazon ECS Fargate for serverless container orchestration, making deployments scalable and cost-effective.
   - Technologies: Github Actions, Terraform, Docker
-
-- **[winutil](https://github.com/ChrisTitusTech/winutil)**: 
-  - Contributed enhancements to the "winutil" repository, including PowerShell scripts and optimizations to maximize Windows utility and improve productivity.
-
-- **[mybash](https://github.com/ChrisTitusTech/mybash)**: 
-  - Made valuable contributions to the popular "mybash" repository, including script enhancements, bug fixes, and feature additions that improve usability and extensibility.
 
 ## 🌐 Portfolio
 ✨ Explore my [personal website](https://dhruvmistry2000.github.io/dhruvmistry/) to discover my projects and professional journey!
