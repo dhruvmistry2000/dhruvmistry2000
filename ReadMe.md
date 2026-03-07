@@ -1,6 +1,6 @@
 # ![header](header.png)
 
-I am a Computer Science student and systems enthusiast passionate about building innovative solutions across development and operations. Currently focused on developing a Docker implementation from scratch to better understand containerization's role in software delivery lifecycle. My interests span cloud-native technologies, infrastructure automation, and operational aspects of system design, with a growing focus on deployment strategies and reliability patterns in distributed environments.
+I am Dhruv Mistry, a Computer Science Engineering graduate and DevOps Engineer with hands-on experience in AWS, GCP, Docker, Kubernetes, and CI/​CD automation. I specialize in cloud infrastructure, and workflow optimization with a strong focus on scripting and containerization. Over the past year, I have transitioned into production-grade Kubernetes environments, gaining practical experience in cluster management, workload scaling, zero-downtime deployments, and resource optimization. I have developed a strong understanding of data safety, secrets management, backup strategies, and system reliability in live production systems. Passionate about open-source contributions and continuous learning, I actively build and share projects on GitHub, and I am eager to leverage my growing expertise in cloud-native technologies and DevOps practices to drive efficiency and innovation in modern infrastructure environments.
 
 ## 🚀 About Me
 - 🐳 Currently building a Docker implementation from scratch as part of my [mydocker](https://github.com/dhruvmistry2000/mydocker) project, which complements my work on [mykubernetes](https://github.com/dhruvmistry2000/mykubernetes) by providing a foundational container runtime.
@@ -63,6 +63,12 @@ I am a Computer Science student and systems enthusiast passionate about building
 - **[Strapi-Deployment](https://github.com/dhruvmistry2000/Strapi-Deployment)**
   - The GitHub repository Strapi-Deployment automates the deployment of a Strapi CMS application to AWS using Docker, Terraform, and GitHub Actions. I’ve set it up to use Amazon ECS Fargate for serverless container orchestration, making deployments scalable and cost-effective.
   - Technologies: Github Actions, Terraform, Docker
+
+- **[Kubepulse](https://github.com/dhruvmistry2000/kubepulse)**
+  - Kubepulse is a Kubernetes monitoring and health-check utility designed to quickly inspect cluster status and workload health.
+  - It helps identify issues such as pod failures, resource utilization problems, and cluster health anomalies.
+  - The tool provides a streamlined way for DevOps engineers to diagnose Kubernetes environments efficiently.
+  - Technologies: Kubernetes, Python
 
 ## 🌐 Portfolio
 ✨ Explore my [personal website](https://dhruvmistry2000.github.io/dhruvmistry/) to discover my projects and professional journey!
