@@ -68,7 +68,7 @@ I am Dhruv Mistry, a Computer Science Engineering graduate and DevOps Engineer w
   - Kubepulse is a Kubernetes monitoring and health-check utility designed to quickly inspect cluster status and workload health.
   - It helps identify issues such as pod failures, resource utilization problems, and cluster health anomalies.
   - The tool provides a streamlined way for DevOps engineers to diagnose Kubernetes environments efficiently.
-  - Technologies: Kubernetes, Python
+  - Technologies: Kubernetes, Python, Helm
 
 ## 🌐 Portfolio
 ✨ Explore my [personal website](https://dhruvmistry2000.github.io/dhruvmistry/) to discover my projects and professional journey!
