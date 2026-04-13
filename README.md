@@ -96,13 +96,13 @@
 
 ---
 
-## 📊 GitHub Analytics
+<!-- ## 📊 GitHub Analytics -->
 
-<div align="center">
+<!-- <div align="center"> -->
 
 <!-- ![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvmistry2000&theme=onedark&hide_border=false&include_all_commits=true&count_private=false) -->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhruvmistry2000&theme=onedark&hide_border=false)
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhruvmistry2000&theme=onedark&hide_border=false) -->
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvmistry2000&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
 
